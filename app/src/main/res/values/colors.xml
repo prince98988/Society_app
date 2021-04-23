@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="home">#CEEBE1</color>
+    <color name="white">#FCF9F9</color>
+    <color name="gey">#D5B7B5</color>
+    <color name="lion">#F11707</color>
+    <color name="prince">#A6DB14</color>
+    <color name="red">#F44336</color>
+    <color name="red1">#F5103E</color>
+    <color name="prince1">#570516</color>
+</resources>

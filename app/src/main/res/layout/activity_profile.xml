@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/add"
+    android:layout_gravity="center_vertical"
+    tools:context=".profile">
+
+    <ImageView
+        android:id="@+id/pimage"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="300dp"
+        android:src="@drawable/prince"
+        android:layout_height="200dp"/>
+    <Button
+        android:id="@+id/pcimage"
+        android:layout_width="30dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="30dp"
+        android:background="@drawable/ic_baseline_add_a_photo_24"
+        android:layout_marginBottom="40dp">
+
+    </Button>
+    <EditText
+        android:id="@+id/pname"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/back"
+        android:text="anonymous"
+        android:padding="10dp"
+        android:layout_height="match_parent">
+    </EditText>
+    <Button
+        android:id="@+id/psave"
+        android:layout_marginTop="45dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SAVE"
+        android:background="@drawable/border"
+        >
+
+    </Button>
+
+
+</LinearLayout>

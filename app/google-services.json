@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "243798555288",
+    "firebase_url": "https://shukan-silver.firebaseio.com",
+    "project_id": "shukan-silver",
+    "storage_bucket": "shukan-silver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243798555288:android:10dcffa9cef799ccb22eed",
+        "android_client_info": {
+          "package_name": "com.example.shukansilver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243798555288-4fd5pbc72fck6164eadf774avs6113m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArpvUEn_SLyLpeo4imqscCpN6Ea1j-9nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243798555288-4fd5pbc72fck6164eadf774avs6113m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
