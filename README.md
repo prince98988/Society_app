@@ -6,54 +6,38 @@
 4.In menu there is Chat activity in which chatting and delete chat option available.
 5.In menu there is image upload and download option.
 
-![](Society%20app%20images/1%20(1).png)                                                                                                         
-                                                                                                                                                
-                                                                                                                                                
-![](Society%20app%20images/1%20(2).png)                                                                                                         
-                                                                                                                                                
-                                                                                                                                                
-![](Society%20app%20images/1%20(3).png)                                                                                                         
-                                                                                                                                                
-                                                                                                                                                
-![](Society%20app%20images/1%20(4).png)                                                                                                         
-                                                                                                                                                
-                                                                                                                                                
-![](Society%20app%20images/1%20(5).png)                                                                                                         
-                                                                                                                                                
-                                                                                                                                                
-![](Society%20app%20images/1%20(6).png)                                                                                                         
-                                                                                                                                                
-                                                                                                                                                
-![](Society%20app%20images/1%20(7).png)                                                                                                         
-                                                                                                                                                
-                                                                                                                                                
-![](Society%20app%20images/1%20(8).png)                                                                                                         
-                                                                                                                                                
-                                                                                                                                                
-![](Society%20app%20images/1%20(9).png)                                                                                                         
-                                                                                                                                                
-                                                                                                                                                
-![](Society%20app%20images/1%20(10).png)                                                                                                        
-                                                                                                                                                
-                                                                                                                                                
-![](Society%20app%20images/1%20(11).png)   
+<img src="Society%20app%20images/1%20(1).png" width="300">  
 
-![](Society%20app%20images/1%20(12).png)                                                                                                        
-                                                                                                                                                
-                                                                                                                                                
-![](Society%20app%20images/1%20(13).png)                                                                                                        
-                                                                                                                                                
-                                                                                                                                                
-![](Society%20app%20images/1%20(14).png)                                                                                                        
-                                                                                                                                                
-                                                                                                                                                
-![](Society%20app%20images/1%20(15).png)                                                                                                        
-                                                                                                                                                
-                                                                                                                                                
-![](Society%20app%20images/1%20(16).png)                                                                                                        
-                                                                                                                                                
-                                                                                                                                                
-![](Society%20app%20images/1%20(17).png)                                                                                                        
-                                                                                                                                                
-                                                                                                                                                
-![](Society%20app%20images/1%20(18).png)                
+<img src="Society%20app%20images/1%20(2).png" width="300">  
+
+<img src="Society%20app%20images/1%20(3).png" width="300">  
+
+<img src="Society%20app%20images/1%20(4).png" width="300">  
+
+<img src="Society%20app%20images/1%20(5).png" width="300">  
+
+<img src="Society%20app%20images/1%20(6).png" width="300">  
+
+<img src="Society%20app%20images/1%20(7).png" width="300">  
+
+<img src="Society%20app%20images/1%20(8).png" width="300">  
+
+<img src="Society%20app%20images/1%20(9).png" width="300">  
+
+<img src="Society%20app%20images/1%20(10).png" width="300">  
+
+<img src="Society%20app%20images/1%20(11).png" width="300">  
+
+<img src="Society%20app%20images/1%20(12).png" width="300">  
+
+<img src="Society%20app%20images/1%20(13).png" width="300">  
+
+<img src="Society%20app%20images/1%20(14).png" width="300">  
+
+<img src="Society%20app%20images/1%20(15).png" width="300">  
+
+<img src="Society%20app%20images/1%20(16).png" width="300">  
+
+<img src="Society%20app%20images/1%20(17).png" width="300">  
+
+<img src="Society%20app%20images/1%20(18).png" width="300"> 
